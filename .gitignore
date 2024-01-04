@@ -224,3 +224,4 @@ ffmpeg-master-latest-win64-gpl/
 models/
 test/
 train/
+*.csv
