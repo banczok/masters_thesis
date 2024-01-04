@@ -225,5 +225,3 @@ models/
 test/
 train/
 *.csv
-train_rles.csv
-reconstruction.ipynb
