@@ -1,3 +1,5 @@
+# Wykres interaktywny z różnicą między maską a predykcją 
+https://drive.google.com/file/d/1WvxoPRZfOqJoeGhyrqWShwF-ySee78yG/view?usp=sharing
 
 # Opisy
 - plots/* - export obrazow do png 
